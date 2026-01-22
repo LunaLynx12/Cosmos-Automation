@@ -18,7 +18,7 @@ A Python automation tool for syncing asset data from the Cosmos API to a local S
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/LunaLynx12/Cosmos-Automation.git
 cd "Cosmos Automation"
 ```
 
